@@ -1,4 +1,4 @@
-                                              # Hanuman Hangman Game
+# Hanuman Hangman Game
 This is a Python-based Hangman game with a fun twist inspired by Lord Hanuman.
 The game was created as part of the **CodeAlpha Python Programming Internship** to demonstrate Python skills and logic building.
 ## About the Game
